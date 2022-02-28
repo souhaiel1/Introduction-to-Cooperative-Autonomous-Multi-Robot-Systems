@@ -1,6 +1,7 @@
 # Introduction to Cooperative Autonomous Multi Robot Systems
 
 This repository contains the code for my Medium article entitled "Introduction to Cooperative Autonomous Multi-Robot Systems".
+Link to the article : https://medium.com/@souhaiel23bnsalem/introduction-to-cooperative-autonomous-multi-robot-systems-a4d9d00ca56b
 The main topics discussed are : 
 
 - Artificial Potential fields: 

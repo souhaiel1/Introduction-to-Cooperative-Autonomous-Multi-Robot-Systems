@@ -8,15 +8,15 @@ The main topics discussed are :
 - Artificial Potential fields: 
 
 <p align="center">
-  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/gif6.gif" width="650" height="400" />
+  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/gif6.gif" width="750" height="400" />
   
 - Consensus:
   
   <p align="center">
-  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/gif7.gif" width="650" height="400" />
+  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/gif7.gif" width="750" height="400" />
     
 - Flocking or formation control:
     
     <p align="center">
-  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/Flocking.gif" width="650" height="400" />
+  <img src="https://github.com/souhaiel1/Introduction-to-Cooperative-Autonomous-Multi-Robot-Systems/blob/main/Images/Flocking.gif" width="750" height="400" />
 
